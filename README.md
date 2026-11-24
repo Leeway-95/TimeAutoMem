@@ -1,6 +1,4 @@
-<div align="center">
-  <h2><b>TimeAutoMem: Pattern-Aware Autonomous Memory for Streaming Time Series Question Answering</b></h2>
-</div>
+# TimeAutoMem: Pattern-Aware Autonomous Memory for Streaming Time Series Question Answering
 
 [![GitHub Stars](https://img.shields.io/github/stars/Leeway-95/TimeAutoMem?style=social)](https://github.com/Leeway-95/TimeAutoMem/stargazers)
 ![Topic](https://img.shields.io/badge/Streaming%20Time%20Series-Question%20Answering-blueviolet)
